@@ -39,7 +39,7 @@ input.txt / uscons.txt
 
 ---
 
-## 🚀 Run the Program
+# Run the Program
 
 ```bash
 javac *.java
@@ -48,7 +48,7 @@ java Client
 
 ---
 
-## 📚 Skills Demonstrated
+# Skills Demonstrated
 
 * Data Structures (BSTs)
 * Java OOP & modular design
